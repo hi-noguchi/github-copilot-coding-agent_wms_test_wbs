@@ -1,0 +1,34 @@
+[
+  {
+    "id": "U001",
+    "username": "yamada_taro",
+    "name": "山田 太郎",
+    "email": "yamada.taro@example.com",
+    "role": "manager",
+    "department": "倉庫管理"
+  },
+  {
+    "id": "U002",
+    "username": "tanaka_hanako",
+    "name": "田中 花子",
+    "email": "tanaka.hanako@example.com",
+    "role": "operator",
+    "department": "物流"
+  },
+  {
+    "id": "U003",
+    "username": "suzuki_ichiro",
+    "name": "鈴木 一郎",
+    "email": "suzuki.ichiro@example.com",
+    "role": "operator",
+    "department": "物流"
+  },
+  {
+    "id": "U004",
+    "username": "sato_jiro",
+    "name": "佐藤 次郎",
+    "email": "sato.jiro@example.com",
+    "role": "admin",
+    "department": "IT"
+  }
+]
